@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+openai
+redis
+onnxruntime
+aiortc
+ffmpeg-python
+prometheus_client
+requests
